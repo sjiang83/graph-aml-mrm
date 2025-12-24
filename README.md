@@ -18,4 +18,4 @@
 # TODO: create venv / install deps
 # TODO: start api
 # TODO: start dashboard
-# TODO: start simulator"
+# TODO: start simulator
